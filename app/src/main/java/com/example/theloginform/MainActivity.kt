@@ -126,7 +126,7 @@ fun MentorRegisterScreen(navController: NavHostController) {
             verticalArrangement = Arrangement.Center,
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
-            Text("Mentor Registration", style = MaterialTheme.typography.headlineSmall)
+            Text("Add New Mentor", style = MaterialTheme.typography.headlineSmall)
 
             Spacer(modifier = Modifier.height(16.dp))
 
